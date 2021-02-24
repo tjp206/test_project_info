@@ -9,3 +9,6 @@ def hello_david():
 
 def hello_world():
     print ("hello world")
+
+def hellow_koala():
+    print ("Hello Koala!")
