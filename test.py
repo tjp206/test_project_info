@@ -11,4 +11,10 @@ def hello_world():
     print ("hello world")
 
 def what_time_is_it();
-    print ("The time is: !")
+    print ("The time is: !")    
+
+def hello_koala():
+    print ("Hello Koala!")
+
+
+
