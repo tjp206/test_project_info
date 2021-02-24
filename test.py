@@ -18,6 +18,9 @@ def hello_koala():
 def hello_dog():
     print("Hello doggy!")
 
+def hello_lion():
+    print("Hello lion!")
+
 
 hello_tj()
 hello_david()
@@ -25,3 +28,4 @@ hello_world()
 what_time_is_it()
 hello_koala()
 hello_dog()
+hello_lion()
