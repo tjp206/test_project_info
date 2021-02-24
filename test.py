@@ -15,9 +15,13 @@ def what_time_is_it():
 def hello_koala():
     print("Hello Koala!")
 
+def hello_dog():
+    print("Hello doggy!")
+
 
 hello_tj()
 hello_david()
 hello_world()
 what_time_is_it()
 hello_koala()
+hello_dog()
