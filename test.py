@@ -9,3 +9,6 @@ def hello_david():
 
 def hello_world():
     print ("hello world")
+
+def what_time_is_it();
+    print ("The time is: !")
