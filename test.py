@@ -27,6 +27,9 @@ def hello_linsey():
 def hello_craig():
     print("Hello Craig!")
 
+def bump_giraffe():
+    print("Ouch")
+
 hello_tj()
 hello_david()
 hello_world()
@@ -36,3 +39,4 @@ hello_dog()
 hello_lion()
 hello_linsey()
 hello_craig()
+bump_giraffe()
