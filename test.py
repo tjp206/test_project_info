@@ -33,6 +33,9 @@ def bump_giraffe():
 def speak_to_mr_horse():
     print("Hello Mr Horse!")
 
+def hello_cat():
+    print ("hello cat")
+
 hello_tj()
 hello_david()
 hello_world()
@@ -44,3 +47,4 @@ hello_linsey()
 hello_craig()
 bump_giraffe()
 speak_to_mr_horse()
+hello_cat()
